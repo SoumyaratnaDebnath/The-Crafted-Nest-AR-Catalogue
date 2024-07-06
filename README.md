@@ -1,9 +1,9 @@
 ## Andriod Application
-Download the Andoid Application from <a  href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/blob/main/The%20Crafted%20Nest%20AR%20Companion.apk" > here  </a>
+Download the <a  href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/blob/main/The%20Crafted%20Nest%20AR%20Companion.apk" > Andoid Application  </a>
 
 
 ## Catalogue
-Check the Catalogue <a href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/blob/main/The%20Crafted%20Nest%20Catalogue.pdf" >here</a>
+Check the  <a href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/blob/main/The%20Crafted%20Nest%20Catalogue.pdf" >Catalogue</a>
 
 ## Gallery
 <table>
@@ -33,5 +33,5 @@ To make this vision a reality, I used Unity and Vuforia, two powerful tools in t
 Customers can see and interact with 3D models of our furniture pieces directly over the physical catalog. This feature gives a detailed and realistic view of our products, helping customers understand the design, size, and look without needing to imagine them in their actual space. Users can hover their mobile devices over specific catalog pages to bring the products to life in 3D. This feature turns the traditional catalog browsing experience into an engaging and interactive journey.
 
 ## Demo Video
-Check the Demo <a href="https://www.youtube.com/embed/Mp3qIFj0f9M" >here</a>
+Check the  <a href="https://www.youtube.com/embed/Mp3qIFj0f9M" >Demo</a>
 
