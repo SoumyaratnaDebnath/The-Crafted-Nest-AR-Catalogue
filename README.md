@@ -33,5 +33,5 @@ To make this vision a reality, I used Unity and Vuforia, two powerful tools in t
 Customers can see and interact with 3D models of our furniture pieces directly over the physical catalog. This feature gives a detailed and realistic view of our products, helping customers understand the design, size, and look without needing to imagine them in their actual space. Users can hover their mobile devices over specific catalog pages to bring the products to life in 3D. This feature turns the traditional catalog browsing experience into an engaging and interactive journey.
 
 ## Demo Video
-Check the  <a href="https://www.youtube.com/embed/Mp3qIFj0f9M" >Demo</a>
+Check the  <a href="https://www.youtube.com/embed/bUWp_fSLiWg" >Demo</a>
 
