@@ -6,16 +6,16 @@ Download the <a  href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR
 Check the  <a href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/blob/main/The%20Crafted%20Nest%20Catalogue.pdf" >Catalogue</a>
 
 ## Gallery
-<table>
-  <tr>
-    <td><img src="images/image (1).png" alt="Banner" style="width:100%"></td>
-    <td><img src="images/image (2).png" alt="1" style="width:100%"></td>
-    <td><img src="images/image (3).png" alt="2" style="width:100%"></td>
+<table style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;"><img src="images/image (1).png" alt="Banner" style="width:100%"></td>
+    <td style="border:none;"><img src="images/image (2).png" alt="1" style="width:100%"></td>
+    <td style="border:none;"><img src="images/image (3).png" alt="2" style="width:100%"></td>
   </tr>
-  <tr>
-    <td><img src="images/image (4).png" alt="3" style="width:100%"></td>
-    <td><img src="images/image (5).png" alt="4" style="width:100%"></td>
-    <td><img src="images/image (1).jpg" alt="5" style="width:100%"></td>
+  <tr style="border:none;">
+    <td style="border:none;"><img src="images/image (4).png" alt="3" style="width:100%"></td>
+    <td style="border:none;"><img src="images/image (5).png" alt="4" style="width:100%"></td>
+    <td style="border:none;"><img src="images/image (1).jpg" alt="5" style="width:100%"></td>
   </tr>
 </table>
 
