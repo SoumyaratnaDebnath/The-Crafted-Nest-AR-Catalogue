@@ -1,5 +1,5 @@
 ## Catalogue
-Check the Catalogue <a href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/tree/main" >here</a>
+Check the Catalogue <a href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/blob/main/The%20Crafted%20Nest%20Catalogue.pdf" >here</a>
 
 ## Gallery
 <table>
