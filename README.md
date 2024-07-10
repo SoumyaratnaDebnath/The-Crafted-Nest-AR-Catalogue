@@ -21,9 +21,9 @@ Check the  <a href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Ca
 
 ## Description
 
-To improve customer experience and engagement, I started an exciting project to create an Augmented Reality (AR)-based product catalog. This modern solution combines the physical and digital worlds, allowing customers to explore and see our beautiful furniture and decor items directly over the catalog.
+<p style="text-align:justify;">To improve customer experience and engagement, I started an exciting project to create an Augmented Reality (AR)-based product catalog. This modern solution combines the physical and digital worlds, allowing customers to explore and see our beautiful furniture and decor items directly over the catalog.
 
-I used Unity and Vuforia, two powerful tools in the AR and game development field. Customers can now see and interact with 3D models of furniture pieces directly over the physical catalog. This feature gives a detailed and realistic view of our products, helping customers understand the design, without needing to imagine them in their actual space. Users can hover their mobile devices over specific catalog pages to bring the products to life in 3D. This feature turns the traditional catalog browsing experience into an engaging and interactive journey.
+I used Unity and Vuforia, two powerful tools in the AR and game development field. Customers can now see and interact with 3D models of furniture pieces directly over the physical catalog. This feature gives a detailed and realistic view of our products, helping customers understand the design, without needing to imagine them in their actual space. Users can hover their mobile devices over specific catalog pages to bring the products to life in 3D. This feature turns the traditional catalog browsing experience into an engaging and interactive journey.</p>
 
 ## Demo Video
 Check the  <a href="https://www.youtube.com/embed/bUWp_fSLiWg" >Demo</a>
