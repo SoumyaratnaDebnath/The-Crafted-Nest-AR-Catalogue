@@ -1,5 +1,5 @@
 ## Andriod Application
-Download the <a  href="https://github.com/SoumyaratnaDebnath/The-Crafted-Nest-AR-Catalogue/blob/main/The%20Crafted%20Nest%20AR%20Companion.apk" > Andoid Application  </a>
+Download the <a  href="https://soumyaratna-debnath.itch.io/the-crafted-nest" > Andoid Application  </a>
 
 
 ## Catalogue
